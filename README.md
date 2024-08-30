@@ -8,7 +8,7 @@
 - 开发过多个 CMS 系统，toB, toC 系统, 小程序和混合 Android/iOS 应用.
 - 曾作为前端负责人超过 3 年
 
-I'm lainlee and is a Front-end developer come from China. Now I'm a freelancer developer and working for [WisenseAI 团队](https://wisense.ai/)
+I'm lainlee and is a Front-end developer come from China. Now I'm a freelancer developer and working for [WisenseAI Group](https://wisense.ai/)
 
 - Working in Front-end for over 10 years.
 - Familiar with JS, TS, HTML, CSS, Vue3, Pinia, Ant-design, Element, Tailwindcss, UniApp, Svelte.
