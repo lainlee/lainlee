@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-我是一名来自中国的前端开发工程师，目前是自由职业状态，为[Datadocs 项目](https://www.datadocs.com/)工作
+我是一名来自中国的前端开发工程师，目前是自由职业状态，为[WisenseAI 团队](https://wisense.ai/)工作
 
 - 在前端工作超过 10 年
 - 熟悉 JS, TS, HTML, CSS, Vue3, Pinia, Ant-design, Element, Tailwindcss, UniApp, Svelte
@@ -8,7 +8,7 @@
 - 开发过多个 CMS 系统，toB, toC 系统, 小程序和混合 Android/iOS 应用.
 - 曾作为前端负责人超过 3 年
 
-I'm lainlee and is a Front-end developer come from China. Now I'm a freelancer developer and working for [Datadocs Project](https://www.datadocs.com/)
+I'm lainlee and is a Front-end developer come from China. Now I'm a freelancer developer and working for [WisenseAI 团队](https://wisense.ai/)
 
 - Working in Front-end for over 10 years.
 - Familiar with JS, TS, HTML, CSS, Vue3, Pinia, Ant-design, Element, Tailwindcss, UniApp, Svelte.
